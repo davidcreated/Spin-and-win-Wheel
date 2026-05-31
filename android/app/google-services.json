@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250588161631",
+    "project_id": "motobites",
+    "storage_bucket": "motobites.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250588161631:android:64ff83478a4b1e97f49dea",
+        "android_client_info": {
+          "package_name": "com.example.motobites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf1sSC7hAWyuZi_Y303PHpnSVN0R8ilmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
